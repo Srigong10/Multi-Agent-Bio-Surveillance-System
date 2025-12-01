@@ -10,7 +10,7 @@ Implementing such multi-agent system enables government, researchers, and health
 ## PRACTICAL IMPACT:
 By correlating real-time news signals with peer-reviewed scientific literature, this system forms an intelligent early-warning engine for infectious disease threats. Its agent design, sequential workflow, custom tools, sessions, and observability establish a robust, and transparent bio-surveillance platform capable of supporting data-driven public-health intelligence. This multi-agent system holds the potential for monitoring future disease outbreaks.
 
-<img width="1080" height="437" alt="Workflow" src="https://github.com/user-attachments/assets/fccd7924-1544-4b31-a601-5931de422806" />
+<img width="994" height="560" alt="Workflow" src="https://github.com/user-attachments/assets/98eeb724-05b5-48b6-8eed-e3acb0749a87" />
 
 ## SYSTEM ARCHITECTURE OVERVIEW: 
 This Multi-Agent Bio-Surveillance System implements LLM-driven architecture that integrates specialized agents to provide continuous monitoring, analysis, and synthesis of infectious disease intelligence. It is built using the Google ADK, the system combines real-time data ingestion, scientific literature mining, structured reasoning pipelines, and orchestration to deliver automated early-warning insights for emerging health threats.
