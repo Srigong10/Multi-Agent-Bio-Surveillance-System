@@ -39,6 +39,12 @@ To run the Jupyter Notebook without installing anything locally, open it directl
 🔗 **Google Colab Link:**  
 https://colab.research.google.com/github/Srigong10/Multi-Agent-Bio-Surveillance-System/blob/main/Multi_Agent_Bio_Surveillance_System.ipynb
 
+## Limitations and Future Improvements
+**1. Memory (Long Term Memory) Addition:** The system lacks persistent memory, limiting continuity across interactions. Integrating scalable memory would enhance contextual understanding.
+
+**2. Enhancing Context Engineering:** Sometime queries expose gaps in adaptive response, indicating the need for improved context-handling.
+
+**3. Agent Evaluation Incorporation:** A comprehensive evaluation framework to ensure reliability and consistent agent performance across diverse scenarios.
 
 ### *Acknowledgement*
 My sincere thanks to Kaggle × Google for the 5-Day Agents Intensive Course. The knowledge gained enabled me to develop this system to help monitor emerging infectious diseases and support responsible outbreak mitigation.
