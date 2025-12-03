@@ -29,5 +29,10 @@ The following are the key features this system includes,
 
 **6. Observability:** Through LoggingPlugin integration, every agent invocation, tool call, and LLM exchange is recorded. This enables deep visibility into decision paths, supports debugging, and provides accountability across complex multi-agent interactions.
 
+## INSTRUCTIONS FOR SETUP: 
+✅ Jupyter Notebook
+This repository includes a complete demonstration notebook: 📘 multi_agent_bio_surveillance_system.ipynb
+The Python code was executed in Google Colab (Python 3 under default conditions) and on Kaggle to support the ADK Web UI.
+
 ### *Acknowledgement*
 My sincere thanks to Kaggle × Google for the 5-Day Agents Intensive Course. The knowledge gained enabled me to develop this system to help monitor emerging infectious diseases and support responsible outbreak mitigation.
