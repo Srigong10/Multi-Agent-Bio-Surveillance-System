@@ -32,7 +32,7 @@ The following are the key features this system includes,
 ## INSTRUCTIONS FOR SETUP: 
 ✅ Jupyter Notebook  
 
-This repository includes a complete demonstration notebook: 📘 *multi_agent_bio_surveillance_system.ipynb*,
+This repository includes a complete demonstration notebook: 📘 *Multi_Agent_Bio_Surveillance_System.ipynb*,
 The Python code was executed on Google Colab (Python 3 under default conditions) and on Kaggle to support the ADK Web UI.
 
 ### *Acknowledgement*
